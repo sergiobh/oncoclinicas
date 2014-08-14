@@ -1,0 +1,5 @@
+Passos para executar o framework Codeignter
+
+1º Copiar o diretorio "oncoclinicas" para o seu repositório public do apache
+2º Ter habilitado reescrita de url nas configurações do apache (modrewrite)
+3º Configurar o acesso ao banco de dados, arquivo "../oncoclinicas/application/config/database.php"
